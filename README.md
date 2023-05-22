@@ -13,7 +13,7 @@ This project focuses on the classification of harsh comments using machine learn
 
 ## Introduction
 
-The project is based on a Kaggle competition focused on identifying and classifying harsh comments. The dataset provided consists of comments labeled as either `harsh`, `extremely_harsh`, `vulgar`, `threatening`, `disrespect`, `targeted_hate`. The objective is to develop models that can accurately predict the label for new comments.
+The project is based on a [Kaggle competition](https://www.kaggle.com/competitions/harsh-comment-classification) focused on identifying and classifying harsh comments. The dataset provided consists of comments labeled as either `harsh`, `extremely_harsh`, `vulgar`, `threatening`, `disrespect`, `targeted_hate`. The objective is to develop models that can accurately predict the label for new comments.
 
 ## Exploratory Data Analysis
 
