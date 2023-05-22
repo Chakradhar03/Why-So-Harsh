@@ -10,7 +10,6 @@ This project focuses on the classification of harsh comments using machine learn
 - [Modeling](#modeling)
 - [Results](#results)
 - [Dependencies](#dependencies)
-- [Contributing](#contributing)
 
 ## Introduction
 
